@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey, it's Kevin 👋
+- 🔭 I’m currently working on random projects to brush up on Git
+- 🌱 I’m currently learning about data structures
+- 📫 How to reach me:
+  - kevinleefm@hotmail.com
+  - k323lee@uwaterloo.ca
+- 😄 Pronouns: he, they
 
 <!--
 **KevinLeeFM/KevinLeeFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
