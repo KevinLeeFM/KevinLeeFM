@@ -1,8 +1,5 @@
 ### Hello, my name is Kevin 👋
 - 🌱 I’m currently learning about machine learning and other computer engineering subjects
-- 📫 How to reach me:
-  - kevinleefm@hotmail.com
-  - k323lee@uwaterloo.ca
 - 😄 Pronouns: he/him, they/them
 
 <!--
