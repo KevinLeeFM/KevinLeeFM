@@ -1,5 +1,5 @@
 ### Hello, my name is Kevin 👋
-- 🌱 I’m currently learning about machine learning and other computer engineering subjects
+- 🌱 I’m currently learning programming language principles and formal verification using proof assistants
 - 😄 Pronouns: he/him, they/them
 
 <!--
