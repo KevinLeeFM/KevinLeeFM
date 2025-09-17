@@ -1,5 +1,5 @@
 ### Hello, my name is Kevin 👋
-- 🌱 I’m currently learning programming language principles and formal verification using proof assistants
+- 🌱 I’m currently learning programming language principles and static analysis
 - 😄 Pronouns: he/him, they/them
 
 <!--
